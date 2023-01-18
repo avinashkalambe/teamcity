@@ -1,4 +1,4 @@
-import hello.py
+import hello
 
 
 print("hi")

@@ -1,4 +1,0 @@
-import hello
-
-
-print("hi")
